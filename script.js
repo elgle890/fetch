@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const rep = document.querySelector('#rep');
     const seguidores = document.querySelector('#seguidores');
     const seguindo = document.querySelector('#seguindo');
-    const endpoint = 'https://api.github.com/users/ogiansouza';
+    const endpoint = 'https://api.github.com/users/elgle890';
     const url = document.querySelector('#url');
 
    // const xhttp = new XMLHttpRequest();
